@@ -1,0 +1,6 @@
+[submodule "storimagify-api"]
+	path = storimagify-api
+	url = https://github.com/yannickkiki/storimagify-api
+[submodule "storimagify-ui"]
+	path = storimagify-ui
+	url = https://github.com/yannickkiki/storimagify-ui
